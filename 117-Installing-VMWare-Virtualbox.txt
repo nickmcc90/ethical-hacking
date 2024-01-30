@@ -1,0 +1,3 @@
+A virtual machine is a machine inside of a machine.
+
+<!--Timestamp 1:48:04-->
